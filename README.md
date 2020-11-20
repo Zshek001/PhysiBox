@@ -5,12 +5,30 @@ Prefered Language: Python, MATLAB, C, C++
 
 Suggested topics and projects:
 
-Classical mechanics
+1.Basic classical mechanics
 
-Eletrostatics
+gravity field
+friction
+elasticity
+stress&strain
 
-Fluid dynamics
+pendulum
+hard object
+sliding
 
-Thermodynamics
+2.Eletrostatics
+point charge model
+uniform plane charge
+charge on a conductor
 
-Neuronal dynamics
+3.Fluid dynamics
+partical model
+ideal fluid flow
+non-ideal fluid behavior
+turbulance
+
+4.Thermodynamics
+heat conduction
+convection
+
+5.Neuronal dynamics
